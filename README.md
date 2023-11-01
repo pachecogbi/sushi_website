@@ -6,9 +6,6 @@ Welcome to the Sushi Website project! This is a simple website designed to showc
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
